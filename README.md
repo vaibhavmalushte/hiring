@@ -1,3 +1,5 @@
+![We Want YOU](https://raw.githubusercontent.com/soltius/hiring/master/sam.jpg)
+
 Would like to apply to a position at Soltius? You came to the right place!
 
 # The Positions
