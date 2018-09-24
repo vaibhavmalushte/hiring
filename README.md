@@ -1,4 +1,6 @@
-![We Want YOU](https://raw.githubusercontent.com/soltius/hiring/master/sam.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/soltius/hiring/master/sam.jpg">
+</p>
 
 Would like to apply to a position at Soltius? You came to the right place!
 
