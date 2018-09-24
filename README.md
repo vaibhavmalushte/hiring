@@ -1,14 +1,8 @@
 Would like to apply to a position at Soltius? You came to the right place!
 
-# The Positions
-
-1. Cloud Engineer: check out the `cloud-engineer` [branch](https://github.com/soltius/hiring/tree/cloud-engineer) of this repository.
-
-# Questions
-
-Please provide screenshots and/or code snippets for all steps.
-
 # The Challenge
+
+`Please provide screenshots and/or code snippets for all steps.`
 
 We would like to see you deploying a two layer application architecture. You have to build everything from scratch, starting from the basics like networking, servers and firewall rules and work your way up to monitoring and log collection.
 
@@ -40,6 +34,8 @@ That step is pretty straight-forward:
 `git clone git@github.com:soltius/hiring.git`
 
 ### 2. Configure the Mail Sending Options
+
+This step will configure Git to send e-mails as yourself. The example below is for GMail, but you can use any SMTP server you like.
 
 ```
   git config --global sendemail.smtpencryption tls
