@@ -1,6 +1,6 @@
 Would like to apply to a position at Soltius? You came to the right place!
 
-# The Challenge
+# The Challenge - Cloud Engineer
 
 `Please provide screenshots and/or code snippets for all steps.`
 
@@ -14,8 +14,8 @@ You can utilize any cloud provider you like to complete this exercise, but we re
 
 Because we do everything in an automated way (OK, almost everything, but anyway...), we'd like to see what you can do managing infrastructure and deploying your app using code. To accomplish this task feel free to use any technology you prefer, e.g.
 
-[Terraform](https://terraform.io)
-[Cloudformation](https://aws.amazon.com/cloudformation/)
+- [Terraform](https://terraform.io)
+- [Cloudformation](https://aws.amazon.com/cloudformation/)
 
 For monitoring and log collection you can create an account on Datadog.
 
@@ -31,7 +31,10 @@ To submit your results to us, follow the instructions below:
 
 That step is pretty straight-forward:
 
-`git clone git@github.com:soltius/hiring.git`
+```
+git clone git@github.com:soltius/hiring.git
+git checkout cloud-engineer
+```
 
 ### 2. Configure the Mail Sending Options
 
@@ -48,17 +51,14 @@ This step will configure Git to send e-mails as yourself. The example below is f
 
 ### 3. Configure the Default Destination Address
 
-`git config sendemail.to hiring-<branch_name>@soltius.io`
-
-PS.: replace <branch_name> with the branch name you cloned from the
-upstream repo. For instance: If you have cloned the ```cloud-engineer```
-branch then the email must be ```hiring-cloud-engineer@soltius.io```.
+`git config sendemail.to hiring-cloud-engineer@soltius.io`
 
 ### 4. Describe your changes
 
 Describe your changes in imperative mood, e.g. "make xyzzy do frotz" instead of "[This patch] makes xyzzy do frotz" or "[I] changed xyzzy to do frotz", as if you are giving orders to the codebase to change its behaviour.
+
 `It is paramount that you submit a single patch, if you send multiple patches (or "multiple commits") then your submission won't be reviewed.`
 
 ### 5. Submit your patch
 
-`git send-email -1 --subject-prefix="<YourName> <PositonApplied> interview"`
+`git send-email -1 --subject-prefix="<YourName> cloud-engineer interview"`
