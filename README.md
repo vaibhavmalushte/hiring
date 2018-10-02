@@ -65,4 +65,4 @@ Describe your changes in imperative mood, e.g. "make xyzzy do frotz" instead of 
 
 ### 5. Submit your patch
 
-`git send-email -1 --subject-prefix="<YourName> cloud-engineer interview"`
+`git send-email -1 --subject-prefix="<YourName> cloud-engineer interview" --from="<your_email>" --suppress-cc=all`
