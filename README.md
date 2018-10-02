@@ -9,7 +9,7 @@ We would like to see you deploying a two layer application architecture. You hav
 Then you must develop an app that displays a "Hello New Company!" message using any language/framework/dark magic/spell/sorcery/flavor you like.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/soltius/hiring/blob/cloud-engineer/twolayers.png">
+  <img src="https://raw.githubusercontent.com/soltius/hiring/cloud-engineer/twolayers.png">
 </p>
 
 ## Prerequisites
