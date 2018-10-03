@@ -2,7 +2,7 @@ Would like to apply to a position at Soltius? You came to the right place!
 
 # The Challenge - Cloud Engineer
 
-`Please provide screenshots and/or code snippets for all steps.`
+**Please provide screenshots and/or code snippets for all steps.**
 
 We would like to see you deploying a two layer application architecture. You have to build everything from scratch, starting from the basics like networking, servers and firewall rules and work your way up to monitoring and log collection.
 
@@ -25,9 +25,11 @@ For monitoring and log collection you can create an account on Datadog.
 
 ## Remember
 
-`Don't forget to delete all resources you created as part of this exercise, so you're not billed for them`
+**Don't forget to delete all resources you created as part of this exercise, so you're not billed for them**
 
 # How do I submit my results?
+
+## DO NOT OPEN PULL REQUESTS VIA GITHUB, USE THE METHOD DESCRIBED BELOW ONLY AS PULL REQUESTS OPEN VIA GITHUB WON'T BE EVALUATED.
 
 To submit your results to us, follow the instructions below:
 
